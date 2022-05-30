@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Titanpreneur
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on a online market place project 
+- 🌱 I’m currently learning Programmming via Cs50
+- 💞️ I’m looking to collaborate on any python related project 
 - 📫 How to reach me is via WhatsApp +2347038128902
 
 <!---
